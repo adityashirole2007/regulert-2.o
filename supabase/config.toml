@@ -1,0 +1,13 @@
+project_id = "aepqrxobwcmohnldbhnu"
+
+[functions.scrape-circulars]
+verify_jwt = false
+
+[functions.process-circular]
+verify_jwt = false
+
+[functions.map-impact]
+verify_jwt = false
+
+[functions.run-pipeline]
+verify_jwt = false
